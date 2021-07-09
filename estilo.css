@@ -1,0 +1,101 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    margin-right: -10px;
+    
+}
+.navbar a:hover{
+    color: white;
+}
+header{
+    background-color: #000000;
+    display: -webkit-flex;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+header img{
+    margin-right: 400px;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+header h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: white;
+    
+
+}
+
+section h1{
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.row{
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+}
+.row h3{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.row p{
+    text-align: justify;
+}
+
+
+footer{
+    background-color: rgb(10, 6, 6)
+    
+  
+}
+footer a{
+    text-align: center;
+}
+.rodape{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    
+
+}
+footer a:hover{
+    color: rgb(194, 42, 42)
+
+    
+}
+.corpo{
+    margin-left: 120px;
+    margin-right: 20px;
+}
+.afastar{
+    margin-left: 80px;
+}
+#paragrafo{
+    margin-top: -390px;
+}
+#paragrafo1{
+    margin-top: -140px;
+}
+img{
+    border-radius: 5px;
+}
+.centro{
+    text-align: center;
+}
+input{
+    margin-bottom: 10px;
+}
+button{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
